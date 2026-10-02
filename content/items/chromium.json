@@ -1,0 +1,12 @@
+{
+    "chromium": {
+        "type": "Item",
+        "hardness": 3,
+        "cost": 1.5,
+        "color": "c0c8d0",
+        "explosiveness": 0,
+        "flammability": 0,
+        "radioactivity": 0,
+        "charge": 0.3
+    }
+}
